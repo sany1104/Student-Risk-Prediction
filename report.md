@@ -105,8 +105,8 @@ The output includes:
 
 Output Format:
 - The output is saved as:
-  - CSV file (`Airman_Output.csv`)
-  - JSON file (`Airman_Output.json`)
+  - CSV file (`Student_Risk_Output.csv`)
+  - JSON file (`Student_Risk_Output.json`)
 
 Example Output (JSON):
 
